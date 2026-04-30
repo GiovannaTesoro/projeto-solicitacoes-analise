@@ -1,0 +1,61 @@
+numero_solicitacao,id_responsavel,setor_origem,tipo_solicitacao,prioridade,status,data_abertura,data_fechamento,tempo_dias,prazo,sla_permitido_dias
+1000,1,RH,Gestão de pessoas,Normal,Aberto,1/15/2026,1/25/2026,10,Fora do Prazo,7
+1001,2,TI,Infraestrutura,Normal,Em andamento,2/3/2026,,,Dentro do Prazo,7
+1002,3,TI,Suporte Técnico,Normal,Concluído,3/21/2026,3/26/2026,5,Dentro do Prazo,7
+1003,4,RH,Desenvolvimento,Normal,Em andamento,4/10/2026,,,Fora do Prazo,7
+1004,5,Financeiro,Reembolso,Normal,Concluído,5/27/2026,6/5/2026,9,Fora do Prazo,7
+1005,6,RH,Desenvolvimento,Normal,Aberto,6/14/2026,,,Fora do Prazo,7
+1006,7,Financeiro,Contábil,Normal,Em andamento,7/30/2026,8/8/2026,9,Fora do Prazo,7
+1007,8,Administrativo,Suprimentos,Normal,Em andamento,8/19/2026,,,Fora do Prazo,7
+1008,9,TI,Suporte Técnico,Normal,Aberto,9/5/2026,9/15/2026,10,Fora do Prazo,7
+1009,10,Manutenção,Instalação,Alta,Aberto,10/22/2026,11/1/2026,10,Fora do Prazo,5
+1010,3,TI,Suporte Técnico,Normal,Concluído,2/5/2026,2/8/2026,3,Fora do Prazo,7
+1011,4,RH,Desenvolvimento,Normal,Em andamento,2/12/2026,,,Fora do Prazo,7
+1012,7,Financeiro,Contábil,Normal,Concluído,2/20/2026,3/2/2026,10,Fora do Prazo,7
+1013,8,Administrativo,Suprimentos,Normal,Aberto,3/3/2026,,,Fora do Prazo,7
+1014,10,Manutenção,Preventiva,Alta,Concluído,3/10/2026,3/25/2026,15,Fora do Prazo,5
+1015,3,TI,Infraestrutura,Normal,Em andamento,3/18/2026,,,Fora do Prazo,7
+1016,1,RH,Gestão de pessoas,Normal,Concluído,3/25/2026,3/30/2026,5,Dentro do Prazo,7
+1017,5,Financeiro,Faturamento,Normal,Concluído,4/2/2026,4/18/2026,16,Fora do Prazo,7
+1018,8,Administrativo,Logística,Normal,Em andamento,4/10/2026,,,Fora do Prazo,7
+1019,10,Manutenção,Corretiva,Alta,Aberto,4/22/2026,,,Fora do Prazo,5
+1020,3,TI,Suporte Técnico,Normal,Concluído,5/5/2026,5/9/2026,4,Dentro do Prazo,7
+1021,6,RH,Desenvolvimento,Normal,Concluído,5/14/2026,5/20/2026,6,Fora do Prazo,7
+1022,5,Financeiro,Reembolso,Normal,Em andamento,5/28/2026,,,Fora do Prazo,7
+1023,8,Administrativo,Facilities,Normal,Concluído,6/3/2026,6/21/2026,18,Fora do Prazo,7
+1024,10,Manutenção,Instalação,Alta,Concluído,6/15/2026,6/20/2026,5,Dentro do Prazo,5
+1025,9,TI,Infraestrutura,Normal,Aberto,6/30/2026,,,Fora do Prazo,7
+1026,6,RH,Gestão de pessoas,Normal,Concluído,7/7/2026,,,Fora do Prazo,7
+1027,7,Financeiro,Contábil,Normal,Concluído,7/19/2026,8/15/2026,27,Fora do Prazo,7
+1028,8,Administrativo,Suprimentos,Normal,Em andamento,8/2/2026,8/5/2026,3,Dentro do Prazo,7
+1029,10,Manutenção,Preventiva,Alta,Concluído,8/11/2026,,,Fora do Prazo,5
+1030,2,TI,Suporte Técnico,Normal,Concluído,8/25/2026,8/31/2026,6,Fora do Prazo,7
+1031,4,RH,Desenvolvimento,Normal,Aberto,9/5/2026,9/10/2026,5,Dentro do Prazo,7
+1032,5,Financeiro,Faturamento,Normal,Concluído,9/12/2026,,,Fora do Prazo,7
+1033,8,Administrativo,Logística,Normal,Em andamento,10/1/2026,,,Fora do Prazo,7
+1034,10,Manutenção,Corretiva,Alta,Concluído,10/9/2026,10/19/2026,10,Fora do Prazo,5
+1035,9,TI,Infraestrutura,Normal,Concluído,10/20/2026,,,Fora do Prazo,7
+1036,1,RH,Gestão de pessoas,Normal,Em andamento,11/3/2026,11/18/2026,15,Fora do Prazo,7
+1037,7,Financeiro,Reembolso,Normal,Concluído,11/10/2026,11/30/2026,20,Fora do Prazo,7
+1038,8,Administrativo,Facilities,Normal,Concluído,10/25/2026,10/30/2026,5,Dentro do Prazo,7
+1039,10,Manutenção,Instalação,Alta,Em andamento,12/15/2026,,,Fora do Prazo,5
+1040,2,TI,Suporte Técnico,Normal,Concluído,1/2/2026,1/22/2026,20,Fora do Prazo,7
+1041,7,Financeiro,Faturamento,Normal,Em andamento,1/10/2026,,,Fora do Prazo,7
+1042,4,RH,Gestão de pessoas,Normal,Concluído,1/18/2026,2/12/2026,25,Fora do Prazo,7
+1043,10,Manutenção,Corretiva,Alta,Aberto,1/25/2026,,,Fora do Prazo,5
+1044,8,Administrativo,Facilities,Normal,Concluído,2/3/2026,2/24/2026,21,Fora do Prazo,7
+1045,6,RH,Desenvolvimento,Normal,Em andamento,2/11/2026,2/16/2026,5,Dentro do Prazo,7
+1046,3,TI,Suporte Técnico,Normal,Concluído,2/19/2026,,,Fora do Prazo,7
+1047,7,Financeiro,Faturamento,Normal,Concluído,2/28/2026,,,Fora do Prazo,7
+1048,10,Manutenção,Instalação,Alta,Aberto,3/6/2026,3/28/2026,22,Fora do Prazo,5
+1049,8,Administrativo,Suprimentos,Normal,Em andamento,3/15/2026,4/9/2026,25,Fora do Prazo,7
+1050,2,TI,Suporte Técnico,Normal,Concluído,3/22/2026,,,Fora do Prazo,7
+1051,7,Financeiro,Contábil,Normal,Concluído,4/2/2026,4/22/2026,20,Fora do Prazo,7
+1052,4,RH,Gestão de pessoas,Normal,Em andamento,4/10/2026,4/15/2026,5,Dentro do Prazo,7
+1053,10,Manutenção,Preventiva,Alta,Concluído,4/18/2026,,,Fora do Prazo,5
+1054,8,Administrativo,Logística,Normal,Concluído,4/27/2026,,,Fora do Prazo,7
+1055,6,RH,Desenvolvimento,Normal,Aberto,5/5/2026,5/20/2026,15,Fora do Prazo,7
+1056,3,TI,Suporte Técnico,Normal,Concluído,5/14/2026,,,Fora do Prazo,7
+1057,5,Financeiro,Contábil,Normal,Em andamento,5/22/2026,6/18/2026,27,Fora do Prazo,7
+1058,10,Manutenção,Corretiva,Alta,Concluído,6/3/2026,6/8/2026,5,Dentro do Prazo,5
+1059,8,Administrativo,Facilities,Normal,Concluído,6/12/2026,,,Fora do Prazo,7
